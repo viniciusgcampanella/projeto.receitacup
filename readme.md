@@ -1,7 +1,18 @@
-estrutura
-div principal, seguida de uma imagem, uma main/nav, para ter as 3 sessões, o que é a comida, ingredientes e modo de preparo
+<h1 align="center"> Receitas Cupcake </h1>
 
-- div que engloba tudo
-- img
-- main
-- 3 section
+<p align="center">
+Desafio para iniciantes em programação com HTML E CSS <br/>
+
+
+<p align="center">
+  <img alt="projeto-explorer-basico" src="./img/Screenshot_1.png">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+
+<p> https://viniciusgcampanella.github.io/projeto.receitacup/ </p>
